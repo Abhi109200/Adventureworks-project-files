@@ -25,3 +25,6 @@ Adventure Works Cycles, a fictional company, is used for exploring data analytic
 SQL queries analyzed sales trends over different time frames, offering enriched insights.
 ### **Conclusion**
 The project provided actionable insights into sales performance through robust data preparation, pivot analysis, and dashboard visualizations. SQL queries complemented the findings by breaking down sales by time periods, highlighting strategies for optimizing business operations and decision-making.
+
+![Screenshot 2024-12-23 122136](https://github.com/user-attachments/assets/99246c27-9a44-4f80-b5d7-f086ef77ed85)
+
