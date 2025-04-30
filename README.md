@@ -28,5 +28,7 @@ SQL queries analyzed sales trends over different time frames, offering enriched 
 ### Live Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMWIwMzJlMzItMjJlMC00OGEyLTkxZjktNjc4OWI5NjE1NDYzIiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
 
+![Screenshot 2024-12-23 122136](https://github.com/user-attachments/assets/87a55671-5e97-47fb-b7f0-c5cff01813b1)
+
 ### **Conclusion**
 The project provided actionable insights into sales performance through robust data preparation, pivot analysis, and dashboard visualizations. SQL queries complemented the findings by breaking down sales by time periods, highlighting strategies for optimizing business operations and decision-making.
