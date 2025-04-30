@@ -26,7 +26,7 @@ SQL queries analyzed sales trends over different time frames, offering enriched 
 ### Data modelling
 ![Screenshot 2025-04-27 185514](https://github.com/user-attachments/assets/82b30e7b-5fbb-4133-be7d-99f9b2002aca)
 ### Live Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiMWIwMzJlMzItMjJlMC00OGEyLTkxZjktNjc4OWI5NjE1NDYzIiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
+https://app.powerbi.com/view?r=eyJrIjoiMWVlOTE0OWYtZjMzZS00YWZmLWI4NTMtMTAzYTFhM2Q5ZjE5IiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
 
 ![Screenshot 2024-12-23 122136](https://github.com/user-attachments/assets/87a55671-5e97-47fb-b7f0-c5cff01813b1)
 
