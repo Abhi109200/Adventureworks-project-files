@@ -25,7 +25,7 @@ Adventure Works Cycles, a fictional company, is used for exploring data analytic
 SQL queries analyzed sales trends over different time frames, offering enriched insights.
 ### Data modelling
 ![Screenshot 2025-04-27 185514](https://github.com/user-attachments/assets/82b30e7b-5fbb-4133-be7d-99f9b2002aca)
-### Live Dashboard
+### Live Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiMWIwMzJlMzItMjJlMC00OGEyLTkxZjktNjc4OWI5NjE1NDYzIiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
 
 ![Screenshot 2024-12-23 122136](https://github.com/user-attachments/assets/87a55671-5e97-47fb-b7f0-c5cff01813b1)
